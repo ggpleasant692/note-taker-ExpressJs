@@ -1,1 +1,12 @@
-[]
+[
+  {
+    "title": "Hello World",
+    "text": "This first note was created by me as a sample for my project.",
+    "id": "69cdc263-469d-49e0-9d7f-2b607dfe2287"
+  },
+  {
+    "title": "Hello Again",
+    "text": "Just another note to show the functionality of my work.",
+    "id": "2b601664-0503-488d-aa36-3dfcc30bca8a"
+  }
+]
